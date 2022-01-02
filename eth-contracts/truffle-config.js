@@ -22,8 +22,8 @@ const HDWalletProvider = require('truffle-hdwallet-provider');
 const infuraKey = "a0fd4836b2384d9e97d07e75cbf1e4f3";
 
 const fs = require('fs');
-const mnemonic = "camp tape veteran dwarf narrow monitor arm ranch circle pet neutral scorpion";
-const ropstenMnemonic = "wrong marble cherry sniff evoke insane major build payment release walk mention";
+const mnemonic = "";
+const ropstenMnemonic = "";
 
 module.exports = {
   /**
