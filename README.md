@@ -36,7 +36,8 @@ zokrates export-verifier
 
 ## Test
 
-```truffle test
+```
+truffle test
 ```
 
 ## Deployment
